@@ -20,8 +20,8 @@ I'm currently exploring:
 
 Here are a few projects I'm proud of:
 
-1. [Web Tori]([link-to-project-1](https://github.com/rizkisepriadi/akira-toriyama-portfolio-web)): Brief description
-2. [Web Steak Gacor]([link-to-project-2](https://github.com/rizkisepriadi/SteakGacor)): Brief description
+1. ([Web Tori](https://github.com/rizkisepriadi/akira-toriyama-portfolio-web)): Brief description
+2. ([Web Steak Gacor](https://github.com/rizkisepriadi/SteakGacor)): Brief description
 
 ## 📫 Let's Connect
 
