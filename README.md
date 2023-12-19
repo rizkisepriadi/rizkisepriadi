@@ -20,13 +20,12 @@ I'm currently exploring:
 
 Here are a few projects I'm proud of:
 
-1. [Project Name 1](link-to-project-1): Brief description
-2. [Project Name 2](link-to-project-2): Brief description
-3. [Project Name 3](link-to-project-3): Brief description
+1. [Web Tori]([link-to-project-1](https://github.com/rizkisepriadi/akira-toriyama-portfolio-web)): Brief description
+2. [Web Steak Gacor]([link-to-project-2](https://github.com/rizkisepriadi/SteakGacor)): Brief description
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rizkisepriadi-057b8a233)
-- Portfolio: ([link-to-portfolio](https://kisep.me/))
+- LinkedIn: ([LinkedIn Profile](https://linkedin.com/in/rizkisepriadi-057b8a233))
+- Portfolio: ([Portfolio](https://kisep.me/))
 
 Feel free to explore my repositories and reach out! Happy coding! 😊
