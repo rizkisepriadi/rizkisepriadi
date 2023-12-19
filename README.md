@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**rizkisepriadi/rizkisepriadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad Rizki Sepriadi, a passionate front-end developer from Indonesia. Welcome to my GitHub profile! 👨‍💻
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5, CSS, JavaScript (ES6+)
+- Git, GitHub
+- Visual Studio Code
+
+## 🌱 Currently Learning
+
+I'm currently exploring:
+
+- Next.js for server-side rendering
+- React.js, Vue.js
+- Bootstrap, Tailwind CSS
+
+## 🚀 Projects
+
+Here are a few projects I'm proud of:
+
+1. [Project Name 1](link-to-project-1): Brief description
+2. [Project Name 2](link-to-project-2): Brief description
+3. [Project Name 3](link-to-project-3): Brief description
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+## 📫 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/rizkisepriadi-057b8a233
+- Portfolio: ([link-to-portfolio](https://kisep.me/))
+
+Feel free to explore my repositories and reach out! Happy coding! 😊
