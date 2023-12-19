@@ -24,13 +24,9 @@ Here are a few projects I'm proud of:
 2. [Project Name 2](link-to-project-2): Brief description
 3. [Project Name 3](link-to-project-3): Brief description
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
 ## 📫 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/rizkisepriadi-057b8a233
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rizkisepriadi-057b8a233))
 - Portfolio: ([link-to-portfolio](https://kisep.me/))
 
 Feel free to explore my repositories and reach out! Happy coding! 😊
