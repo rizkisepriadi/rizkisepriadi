@@ -26,7 +26,7 @@ Here are a few projects I'm proud of:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rizkisepriadi-057b8a233))
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rizkisepriadi-057b8a233)
 - Portfolio: ([link-to-portfolio](https://kisep.me/))
 
 Feel free to explore my repositories and reach out! Happy coding! 😊
