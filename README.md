@@ -4,7 +4,7 @@ I'm Muhammad Rizki Sepriadi, a passionate front-end developer from Indonesia. We
 
 ## 🔧 Technologies & Tools
 
-- HTML5, CSS, JavaScript (ES6+)
+- HTML5, CSS, JavaScript
 - Git, GitHub
 - Visual Studio Code
 
@@ -28,4 +28,10 @@ Here are a few projects I'm proud of:
 - LinkedIn: ([LinkedIn Profile](https://linkedin.com/in/rizkisepriadi-057b8a233))
 - Portfolio: ([Portfolio](https://kisep.me/))
 
+<p align="left">
+<a href="https://github.com/rizkisepriadi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkisepriadi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkisepriadi&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 Feel free to explore my repositories and reach out! Happy coding! 😊
