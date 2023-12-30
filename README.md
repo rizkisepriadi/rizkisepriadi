@@ -7,6 +7,7 @@ I'm Muhammad Rizki Sepriadi, a passionate front-end developer from Indonesia. We
 - HTML5, CSS, JavaScript
 - Git, GitHub
 - Visual Studio Code
+- React JS
 
 ## 🌱 Currently Learning
 
