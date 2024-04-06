@@ -16,9 +16,16 @@ I'm Muhammad Rizki Sepriadi, a passionate front-end developer from Indonesia. We
 I'm currently exploring:
 
 - Next.js for server-side rendering
-- React.js, Vue.js
+- React.js
 - Inertia.js
 - Laravel
+  
+## 🌱 Next Target
+
+- Docker
+- Adonis.js
+- Express.js
+- Vue.js
 
 ## 🚀 Projects
 
