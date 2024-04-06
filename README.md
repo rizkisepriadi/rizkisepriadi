@@ -20,7 +20,7 @@ I'm currently exploring:
 - Inertia.js
 - Laravel
   
-## 🌱 Next Target
+## 🎯 Next Target
 
 - Docker
 - Adonis.js
