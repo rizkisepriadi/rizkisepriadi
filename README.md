@@ -10,6 +10,7 @@ I'm Muhammad Rizki Sepriadi, a passionate front-end developer from Indonesia. We
 - Laravel
 - MySQL
 - Boostrap & Tailwind
+- Express.js
 
 ## 🌱 Currently Learning
 
@@ -19,12 +20,12 @@ I'm currently exploring:
 - React.js
 - Inertia.js
 - Laravel
+- Express.js
   
 ## 🎯 Next Target
 
 - Docker
 - Adonis.js
-- Express.js
 - Vue.js
 
 ## 🚀 Projects
