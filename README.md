@@ -27,6 +27,7 @@ I'm currently exploring:
 - Docker
 - Adonis.js
 - Vue.js
+- React Native
 
 ## 🚀 Projects
 
