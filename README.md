@@ -21,10 +21,10 @@ I'm currently exploring:
 - Inertia.js
 - Laravel
 - Express.js
+- Docker
   
 ## 🎯 Next Target
 
-- Docker
 - Adonis.js
 - Vue.js
 - React Native
