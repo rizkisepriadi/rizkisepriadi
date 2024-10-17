@@ -1,4 +1,4 @@
-![file1](img/Banner Kisep.png)
+![file1](img/BannerKisep.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizki Sepriadi</h1>
 <h3 align="center">A passionate Software Engineer | Web and Android Developer</h3>
