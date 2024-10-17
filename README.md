@@ -1,4 +1,4 @@
-![file1](./img/davidHeader.png)
+![file1](img/Banner Kisep.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizki Sepriadi</h1>
 <h3 align="center">A passionate Software Engineer | Web and Android Developer</h3>
@@ -35,6 +35,9 @@
 <a href="#" target="_blank"><img align="center" src="./img/icon-tech/material-ui.png" alt="Muhammad Rizki Sepriadi" height="60" width="60" /></a>
 <a href="#" target="_blank"><img align="center" src="./img/icon-tech/figma.png" alt="Muhammad Rizki Sepriadi" height="60" width="60" /></a>
 <a href="#" target="_blank"><img align="center" src="./img/icon-tech/docker.png" alt="Muhammad Rizki Sepriadi" height="60" width="60" /></a>
+<a href="#" target="_blank"><img align="center" src="./img/icon-tech/inertia.png" alt="Muhammad Rizki Sepriadi" height="60" width="60" /></a>
+<a href="#" target="_blank"><img align="center" src="./img/icon-tech/mysql.png" alt="Muhammad Rizki Sepriadi" height="60" width="60" /></a>
+<a href="#" target="_blank"><img align="center" src="./img/icon-tech/mongodb.png" alt="Muhammad Rizki Sepriadi" height="60" width="60" /></a>
 </p>
 
 <p align="left">
@@ -92,5 +95,5 @@
 
 <div align="center" style="color: white; background-color: blue; font-weight: bold;" > 
 <br/>
-<p>David Nasrulloh | 2023</p>
+<p>Rizki Sepriadi | 2024</p>
 </div>
