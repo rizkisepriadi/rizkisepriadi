@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/rizkysepriadi123/" target="_blank"><img align="center" src="./img/icon-sosmed/facebook.png" alt="Rizki Sepriadi" height="40" width="40" /></a>
 <!-- <a href="https://dribbble.com/rizkisepriadi" target="_blank"><img align="center" src="./img/icon-sosmed/dribble.png" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a> -->
 <!-- 	<a href="https://www.behance.net/rizkisepriadi" target="_blank"><img align="center" src="./img/icon-sosmed/behance.png" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a> -->
-<a href="https://kisep.me/" target="_blank"><img align="center" src="./img/icon-sosmed/kisep.svg" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a>
+<!-- <a href="https://kisep.me/" target="_blank"><img align="center" src="./img/icon-sosmed/kisep.svg" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a> -->
 </p>
 
 ---
@@ -60,8 +60,6 @@
 | Akira Toriyama         | [akira-toriyama-portfolio-web](https://tori-porto.netlify.app/)        | [github.com/rizkisepriadi/akira-toriyama-portfolio-web](https://github.com/rizkisepriadi/akira-toriyama-portfolio-web)           | FE - HTML, CSS, JS  |
 | Restaurant Steak Gacor     | [SteakGacor](https://tori-porto.netlify.app/)           | [github.com/rizkisepriadi/SteakGacor](https://github.com/rizkisepriadi/SteakGacor)   | FE - HTML, CSS, JS                                 |
 | Submission Bookshelf API          | [-]()           | [github.com/rizkisepriadi/Submission-Bookshelf-API](https://github.com/rizkisepriadi/Submission-Bookshelf-API)                   | BE - Hapi Js                                  |
-| My Portofolio           | [Portofolio](https://kisep.me/)                      | [github.com/rizkisepriadi/my-portofolio](https://github.com/rizkisepriadi/my-portofolio)               | FE - React Js                                  |
-
 
 ### Mobile Development - Portfolio
 
