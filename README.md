@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/rizkisepriadi-057b8a233" target="_blank"><img align="center" src="./img/icon-sosmed/linkedin.png" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a>
 <a href="https://instagram.com/rizki.sepriadi" target="_blank"><img align="center" src="./img/icon-sosmed/instagram.png" alt="rizki.sepriadi" height="40" width="40" /></a>
 <!-- <a href="https://www.tiktok.com/@rizkisepriadi" target="_blank"><img align="center" src="./img/icon-sosmed/tiktok.png" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a> -->
-<a href="https://www.facebook.com/rizkysepriadi123/" target="_blank"><img align="center" src="./img/icon-sosmed/facebook.png" alt="Rizki Sepriadi" height="40" width="40" /></a>
 <!-- <a href="https://dribbble.com/rizkisepriadi" target="_blank"><img align="center" src="./img/icon-sosmed/dribble.png" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a> -->
 <!-- 	<a href="https://www.behance.net/rizkisepriadi" target="_blank"><img align="center" src="./img/icon-sosmed/behance.png" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a> -->
 <a href="https://kisep-gh-pages.netlify.app/" target="_blank"><img align="center" src="./img/icon-sosmed/kisep.svg" alt="Muhammad Rizki Sepriadi" height="40" width="40" /></a>
