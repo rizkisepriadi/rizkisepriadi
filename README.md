@@ -44,37 +44,6 @@
 <a href="#" target="_blank"><img align="center" src="./img/icon-tech/android.png" alt="Muhammad Rizki Sepriadi" height="60" width="60" /></a>
 </p>
 
----
-
-### Web Development - Portfolio
-
----
-
-| Project Name          | Link Deployment                                                 | Link Repo Github                                                                                     | Tech Stack                                     |
-| --------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| HydroCare | [-]() | [github.com/rizkisepriadi/HydroCare](https://github.com/rizkisepriadi/HydroCare) | Full Stack - MERN                                |
-| EDUFREE       | [-]()            | [github.com/rizkisepriadi/EDUFREE](https://github.com/rizkisepriadi/EDUFREE) | Full Stack - MERN                                 |
-| finebank  | [-]()   | [github.com/rizkisepriadi/finebank](https://github.com/rizkisepriadi/finebank) | Full Stack - MERN                                |
-| Sistem Informasi Pendaftaran Tugas Akhir     | [-]()     | [github.com/rizkisepriadi/SIPTA](https://github.com/rizkisepriadi/SIPTA)   | Full Stack - Inertia JS, Laravel, React JS                                  |
-| Akira Toriyama         | [akira-toriyama-portfolio-web](https://tori-porto.netlify.app/)        | [github.com/rizkisepriadi/akira-toriyama-portfolio-web](https://github.com/rizkisepriadi/akira-toriyama-portfolio-web)           | FE - HTML, CSS, JS  |
-| Restaurant Steak Gacor     | [SteakGacor](https://tori-porto.netlify.app/)           | [github.com/rizkisepriadi/SteakGacor](https://github.com/rizkisepriadi/SteakGacor)   | FE - HTML, CSS, JS                                 |
-| Submission Bookshelf API          | [-]()           | [github.com/rizkisepriadi/Submission-Bookshelf-API](https://github.com/rizkisepriadi/Submission-Bookshelf-API)                   | BE - Hapi Js                                  |
-| My Portofolio           | [Portofolio](https://kisep.me/)                      | [github.com/rizkisepriadi/my-portofolio](https://github.com/rizkisepriadi/my-portofolio)               | FE - React Js                                  |
-
-### Mobile Development - Portfolio
-
----
-
-| Project Name                     | Link Deployment                                                                                             | Link Repo Github                                                                                                                                 | Tech Stack           |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
-| Exploria Mobile App   | [Exploria](https://github.com/Exploria-Team/exploria-mobile/releases/tag/v1.0.0)         | [github.com/rizkisepriadi/exploria-mobile](https://github.com/rizkisepriadi/exploria-mobile)                     | Kotlin - Android App |
-| Submission Intermediate Dicoding   | [Intermediate](https://github.com/rizkisepriadi/aplikasi_story_app/releases/tag/v1.0)         | [github.com/rizkisepriadi/aplikasi_story_app](https://github.com/rizkisepriadi/aplikasi_story_app)                     | Kotlin - Android App |
-| Penerapan Machine Learning di Android Dicoding  | [Asclepius](https://github.com/rizkisepriadi/aplikasi_deteksi_kanker/releases/tag/v1.0)         | [github.com/rizkisepriadi/aplikasi_deteksi_kanker](https://github.com/rizkisepriadi/aplikasi_deteksi_kanker)                     | Kotlin - Android App |
-| Submission Fundamental Dicoding  | [Fundamental](https://github.com/rizkisepriadi/aplikasi-dicoding-event/releases/tag/v1.0.0)         | [github.com/rizkisepriadi/aplikasi-dicoding-event](https://github.com/rizkisepriadi/aplikasi-dicoding-event)                     | Kotlin - Android App |
-| Submission Pemula Dicoding       | [Pemula](https://github.com/rizkisepriadi/Submission-Akhir-Aplikasi-Android-Sederhana-DragonBall/releases/tag/v0.0.1)     | [github.com/rizkisepriadi/Submission-Aplikasi-Android-untuk-Pemula](https://github.com/rizkisepriadi/Submission-Akhir-Aplikasi-Android-Sederhana-DragonBall) | Kotlin - Android App |
-
----
-
 <div align="center"> <br/> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rizkisepriadi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Muhammad Rizki Sepriadi" /></div>
 
 <p align="center"> <br/> &nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkisepriadi&show_icons=true&locale=en&theme=tokyonight" alt="Muhammad Rizki Sepriadi" /></p>
