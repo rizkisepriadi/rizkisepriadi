@@ -108,8 +108,8 @@ Android application implementing Backward Chaining and Certainty Factor methods 
 
 ## Contact
 
-📧 Email: your-email@example.com
+📧 Email: muhammadrizkisepriadi@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/rizkisepriadi-057b8a233
+🔗 LinkedIn: https://linkedin.com/in/rizkisepriadi
 
 🌐 Portfolio: https://kisep-gh-pages.netlify.app
